@@ -1,0 +1,10 @@
+{
+  "minecraft:anvil": 5.0,
+  "minecraft:chipped_anvil": 4.0,
+  "minecraft:damaged_anvil": 3.0,
+  "minecraft:gravel": 0.5,
+  "minecraft:red_sand": 0.3,
+  "minecraft:sand": 0.3,
+  "minecraft:suspicious_gravel": 0.6,
+  "minecraft:suspicious_sand": 0.4
+}
